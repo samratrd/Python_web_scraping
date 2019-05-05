@@ -60,4 +60,4 @@ for card in cards_stacks:
 
         #row = [img_link, headlines, on_date, news_body, author, link]
         #write_into_csv(row)
-        print("--------------------------------------------------------")
+        print("#################################----NEW----############################################")
